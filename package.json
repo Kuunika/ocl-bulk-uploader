@@ -1,0 +1,29 @@
+{
+  "name": "ocl-bulk-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuunika/ocl-bulk-uploader.git"
+  },
+  "author": "Brett Larry Onions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kuunika/ocl-bulk-uploader/issues"
+  },
+  "homepage": "https://github.com/Kuunika/ocl-bulk-uploader#readme",
+  "dependencies": {
+    "@types/node": "^14.0.14",
+    "axios": "^0.19.2",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^8.2.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  },
+  "devDependencies": {}
+}
