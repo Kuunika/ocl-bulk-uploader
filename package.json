@@ -19,11 +19,13 @@
   "homepage": "https://github.com/Kuunika/ocl-bulk-uploader#readme",
   "dependencies": {
     "@types/node": "^14.0.14",
+    "@types/uuid": "^8.0.0",
     "axios": "^0.19.2",
     "csvtojson": "^2.0.10",
     "dotenv": "^8.2.0",
     "ts-node": "^8.10.2",
-    "typescript": "^3.9.6"
+    "typescript": "^3.9.6",
+    "uuid": "^8.2.0"
   },
   "devDependencies": {}
 }
